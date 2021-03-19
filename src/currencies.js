@@ -21,6 +21,10 @@
             symbol: 'dnr',
             addressTypes: {prod: ['1e', '5a'], testnet: ['12', '74']}
         },{
+            name: 'foxy',
+            symbol: 'foxy',
+            addressTypes: {prod: ['23', '5F'], testnet: ['0', '0']} // testnet is 0 as not implemented yet
+        },{
             name: 'beavercoin',
             symbol: 'bvc',
             addressTypes: {prod: ['19', '05'], testnet: ['6f', 'c4']}
